@@ -1,10 +1,10 @@
 - [x] How To Use the JavaScript Developer Console.
-- [x] How To Add JavaScript to HTML.[X]
+- [x] How To Add JavaScript to HTML.
 - [x] How To Write Your First JavaScript Program.
-4. Understanding Syntax and Code Structure in JS
-5. How to Write Comments in JS.
-6. Understanding Data Types in JS.
-7. How To Work with Strings in JS.
+- [x] Understanding Syntax and Code Structure in JS
+- [x] How to Write Comments in JS.
+- [x] Understanding Data Types in JS.
+- [x] How To Work with Strings in JS.
 8. How To Index, Split, and Manipulate Strings in JS.
 9. How To Convert Data Types in JS.
 10. Understanding Variables, Scope, and Hoisting in JS
