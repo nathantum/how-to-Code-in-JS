@@ -1,4 +1,4 @@
-1. How To Use the JavaScript Developer Console.
+1. How To Use the JavaScript Developer Console.[x]
 2. How To Add JavaScript to HTML.
 3. How To Write Your First JavaScript Program.
 4. Understanding Syntax and Code Structure in JS
