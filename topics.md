@@ -5,9 +5,9 @@
 - [x] How to Write Comments in JS.
 - [x] Understanding Data Types in JS.
 - [x] How To Work with Strings in JS.
-8. How To Index, Split, and Manipulate Strings in JS.
-9. How To Convert Data Types in JS.
-10. Understanding Variables, Scope, and Hoisting in JS
+- [x]  How To Index, Split, and Manipulate Strings in JS.
+- [x]  How To Convert Data Types in JS.
+- [x]  Understanding Variables, Scope, and Hoisting in JS
 11. How To Do Math in JS.
 12. Understanding Arrays in JS.
 13. How To Use Array Methods in JS: Mutator Methods.
