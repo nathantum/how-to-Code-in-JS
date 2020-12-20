@@ -28,9 +28,9 @@
 - [x]  Understanding This, Bind, Call, and Apply in JavaScript.
 - [x]  Understanding Map and Set Objects in JavaScript.
 - [x]  Understanding Generators in JavaScript.
-31. Understanding Default Parameters in JavaScript.
-32. Understanding Destructuring, Rest Parameters, and Spread Syntax in JavaScript.
-33. Understanding Template Literals in JavaScript.
-34. Understanding Arrow Functions in JavaScript.
-35. Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript.
-36. Understanding Modules and Import and Export Statements in JavaScript.
+- [x] Understanding Default Parameters in JavaScript.
+- [x] Understanding Destructuring, Rest Parameters, and Spread Syntax in JavaScript.
+- [x] Understanding Template Literals in JavaScript.
+- [x] Understanding Arrow Functions in JavaScript.
+- [x] Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript.
+- [x] Understanding Modules and Import and Export Statements in JavaScript.
