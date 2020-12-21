@@ -16,7 +16,7 @@
 - [x]  Understanding Objects in JavaScript.
 - [x]  Understanding Date and Time in JavaScript.
 - [x]  Understanding Events in JavaScript.
-- [x] How To Work with JSON in JavaScript.
+- [x]  How To Work with JSON in JavaScript.
 - [x]  How To Write Conditional Statements in JavaScript.
 - [x]  How To Use the Switch Statement in JavaScript.
 - [x]  Using While Loops and Do...While Loops in JavaScript.
@@ -28,9 +28,9 @@
 - [x]  Understanding This, Bind, Call, and Apply in JavaScript.
 - [x]  Understanding Map and Set Objects in JavaScript.
 - [x]  Understanding Generators in JavaScript.
-- [x] Understanding Default Parameters in JavaScript.
-- [x] Understanding Destructuring, Rest Parameters, and Spread Syntax in JavaScript.
-- [x] Understanding Template Literals in JavaScript.
-- [x] Understanding Arrow Functions in JavaScript.
-- [x] Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript.
-- [x] Understanding Modules and Import and Export Statements in JavaScript.
+- [x]  Understanding Default Parameters in JavaScript.
+- [x]  Understanding Destructuring, Rest Parameters, and Spread Syntax in JavaScript.
+- [x]  Understanding Template Literals in JavaScript.
+- [x]  Understanding Arrow Functions in JavaScript.
+- [x]  Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript.
+- [x]  Understanding Modules and Import and Export Statements in JavaScript.
